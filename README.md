@@ -35,7 +35,7 @@ $ pip install -r requirements.txt
 Create a `.env` file and add:
 ```ini
 SECRET_KEY=your_secret_key
-OPENAI_API_KEY=your_openai_api_key (GPT-4o-mini)
+OPENAI_API_KEY=your_openai_api_key
 DATABASE_URL=postgresql://username:password@localhost:5432/db_name  # Use PostgreSQL in production
 ```
 
